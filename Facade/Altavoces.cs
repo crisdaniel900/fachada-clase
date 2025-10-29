@@ -13,7 +13,7 @@ namespace Facade
             Console.WriteLine("Altavoces Encendidos");
         }
 
-        public void Apgar()
+        public void Apagar()
 
         { Console.WriteLine("Altavoces Apagados"); }
     }

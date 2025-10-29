@@ -10,11 +10,7 @@ namespace Facade
         public void Encender()
         {
             Console.Write("Encendiendo Laptop");
-            for (int i = 0; i < 10; i++)
-            {
-                Thread.Sleep(500);
-                Console.Write(".");
-            }
+            
             Console.Write("Laptop encendida...");
 
             estado = true;
@@ -36,11 +32,7 @@ namespace Facade
             if (estado)
             {
                 Console.Write("Apagando Laptop");
-                for (int i = 0; i < 10; i++)
-                {
-                    Thread.Sleep(500);
-                    Console.Write(".");
-                }
+                
                 Console.WriteLine("Laptop apagada");
             }
             else
@@ -55,7 +47,5 @@ namespace Facade
             Console.ReadKey();
             Console.Clear();
         }
-    } // This brace likely closes the Laptop class
-      // This brace likely closes the namespace Facade
-}
+    } 
 }

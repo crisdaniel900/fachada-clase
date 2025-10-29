@@ -1,0 +1,7 @@
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\Fachada-Clase\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\Fachada-Clase\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\Fachada-Clase\Facade\bin\Debug\Facade.exe.config
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\Fachada-Clase\Facade\bin\Debug\Facade.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\Fachada-Clase\Facade\bin\Debug\Facade.pdb
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\Fachada-Clase\Facade\obj\Debug\Facade.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\Fachada-Clase\Facade\obj\Debug\Facade.pdb

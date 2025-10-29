@@ -25,7 +25,7 @@ namespace Facade
             Console.ReadKey();
             Console.Clear();
         }
-        public void mostrarJuegos()
+        public void MostrarJuegos()
         {
             for (int i = 0; i < juegos.Length; i++)
             {

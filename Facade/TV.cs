@@ -12,11 +12,7 @@ namespace Facade
         public void Encender()
         {
             Console.Write("Encendiendo TV");
-            for (int i = 0; i < 10; i++)
-            {
-                Thread.Sleep(500);
-                Console.Write(".");
-            }
+           
             Console.Write(" TV encendida");
 
             estado = true;
@@ -38,11 +34,6 @@ namespace Facade
             if (estado)
             {
                 Console.Write("Apagando TV");
-                for (int i = 0; i < 10; i++)
-                {
-                    Thread.Sleep(500);
-                    Console.Write(".");
-                }
                 Console.WriteLine("TV apagada");
                 estado = false;
             }
@@ -51,7 +42,7 @@ namespace Facade
                 Console.WriteLine("La TV ya está apagada");
             }
         }
-        public void seleccionarCanal(int opcionCanal)
+        public void SeleccionarCanal(int opcionCanal)
         {
             Console.WriteLine($"TV sintonizada en el canal No. {opcionCanal} - {canales[opcionCanal - 1]}");
             Console.ReadKey();
