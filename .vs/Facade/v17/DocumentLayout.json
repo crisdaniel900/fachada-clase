@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|c:\\users\\cris\\onedrive\\documentos\\2025\\7mo\\patrones\\u3\\facade\\facade\\sistemaentretenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\sistemaentretenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\facade\\ientretenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\ientretenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|c:\\users\\cris\\onedrive\\documentos\\2025\\7mo\\patrones\\u3\\facade\\facade\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|c:\\users\\cris\\onedrive\\documentos\\2025\\7mo\\patrones\\u3\\facade\\facade\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|c:\\users\\cris\\onedrive\\documentos\\2025\\7mo\\patrones\\u3\\facade\\facade\\consolavideojuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\consolavideojuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|c:\\users\\cris\\onedrive\\documentos\\2025\\7mo\\patrones\\u3\\facade\\facade\\altavoces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\altavoces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\facade\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2F11AB-0B2B-4301-8D92-39E3EC66B4EB}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaEntretenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\SistemaEntretenimiento.cs",
+              "RelativeDocumentMoniker": "Facade\\SistemaEntretenimiento.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\SistemaEntretenimiento.cs",
+              "RelativeToolTip": "Facade\\SistemaEntretenimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:40:23.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Laptop.cs",
+              "RelativeDocumentMoniker": "Facade\\Laptop.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Laptop.cs",
+              "RelativeToolTip": "Facade\\Laptop.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:37:36.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TV.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\TV.cs",
+              "RelativeDocumentMoniker": "Facade\\TV.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\TV.cs",
+              "RelativeToolTip": "Facade\\TV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:34:31.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsolaVideojuegos.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\ConsolaVideojuegos.cs",
+              "RelativeDocumentMoniker": "Facade\\ConsolaVideojuegos.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\ConsolaVideojuegos.cs",
+              "RelativeToolTip": "Facade\\ConsolaVideojuegos.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:19:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Altavoces.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Altavoces.cs",
+              "RelativeDocumentMoniker": "Facade\\Altavoces.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Altavoces.cs",
+              "RelativeToolTip": "Facade\\Altavoces.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:46:40.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Luces.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Luces.cs",
+              "RelativeDocumentMoniker": "Facade\\Luces.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Luces.cs",
+              "RelativeToolTip": "Facade\\Luces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:43:36.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEntretenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\IEntretenimiento.cs",
+              "RelativeDocumentMoniker": "Facade\\IEntretenimiento.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\IEntretenimiento.cs",
+              "RelativeToolTip": "Facade\\IEntretenimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:41:38.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\Facade\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:41:05.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
